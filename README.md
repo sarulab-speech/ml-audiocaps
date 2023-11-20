@@ -8,6 +8,12 @@ The [AudioCaps](https://github.com/cdjkim/audiocaps) contains a dataset of audio
  - English (en)
  - Japanese (ja) ... Both manual and automatic translation.
 
+## Audio data / 環境音データ
+Formatted as 256kbps MP3, 1ch, 48kHz. Since some videos of data source were deleted, the number of audio files does not match that of text captions.
+ - [training set](https://ss-takashi.sakura.ne.jp/corpus/audiocaps/train.zip)
+ - [validation set](https://ss-takashi.sakura.ne.jp/corpus/audiocaps/val.zip)
+ - [test set](https://ss-takashi.sakura.ne.jp/corpus/audiocaps/test.zip)
+
 ## Example / 文例
 
 | AudioCapID    | Language  | Caption |
